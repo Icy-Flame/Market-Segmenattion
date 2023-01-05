@@ -3,6 +3,8 @@
 
 ## Objective
 The main objective behind this project is to develop a customer segmentation to give recommendations like loans,saving plans,wealth management etc on the target customer group.
+![image](https://user-images.githubusercontent.com/104322562/210773421-126a78ea-14f3-459c-a277-cf546675f8db.png)
+
 
 
 ## Data Description
